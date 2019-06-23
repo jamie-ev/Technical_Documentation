@@ -1,5 +1,5 @@
 body {
-	margin: 0;
+  margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
 }
@@ -12,6 +12,7 @@ body {
   width: 315px;
   border-right: 3px solid #777;
   height: 100%;
+  overflow: scroll;
 }
 
 #navbar p {
@@ -70,6 +71,15 @@ h1 {
   text-align: center;
   line-height: 80px;
   margin: auto;
+}
+
+#reference a {
+  text-decoration: underline;
+  color: #000;
+}
+  
+#reference a:visited {
+  color: #000;
 }
 
 /* Responsive design for small computers and tablets */
