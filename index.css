@@ -93,6 +93,9 @@ h1 {
     height: 275px;
     overflow: scroll;
   }
+  a {
+    color: #444; /* To ensure accessible color contrast */
+  }
   main {
     margin: 30px 30px 30px 30px;
   }
