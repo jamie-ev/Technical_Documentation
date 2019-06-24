@@ -10,5 +10,5 @@ I commented throughout the files, but let me know if you have any questions. To 
 
 ## Author
 
-Jamie Ev. - [LinkedIn](https://www.linkedin.com/in/everettjamie/)
+Jamie Ev. - [LinkedIn](https://www.linkedin.com/in/jamie-ev)
 
